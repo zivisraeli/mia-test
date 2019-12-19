@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mia-test/static/css/main.d1b05096.chunk.css",
+    "main.js": "/mia-test/static/js/main.04af907e.chunk.js",
+    "main.js.map": "/mia-test/static/js/main.04af907e.chunk.js.map",
+    "runtime-main.js": "/mia-test/static/js/runtime-main.0835dd82.js",
+    "runtime-main.js.map": "/mia-test/static/js/runtime-main.0835dd82.js.map",
+    "static/js/2.819836d6.chunk.js": "/mia-test/static/js/2.819836d6.chunk.js",
+    "static/js/2.819836d6.chunk.js.map": "/mia-test/static/js/2.819836d6.chunk.js.map",
+    "index.html": "/mia-test/index.html",
+    "precache-manifest.9f4270eef5172eff873e9941d1930115.js": "/mia-test/precache-manifest.9f4270eef5172eff873e9941d1930115.js",
+    "service-worker.js": "/mia-test/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/mia-test/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.819836d6.chunk.js.LICENSE": "/mia-test/static/js/2.819836d6.chunk.js.LICENSE",
+    "static/media/logo.svg": "/mia-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0835dd82.js",
+    "static/js/2.819836d6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.04af907e.chunk.js"
+  ]
+}
