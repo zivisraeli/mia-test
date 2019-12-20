@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/mia-test/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/mia-test/static/js/main.6a13620e.chunk.js",
-    "main.js.map": "/mia-test/static/js/main.6a13620e.chunk.js.map",
+    "main.js": "/mia-test/static/js/main.51959485.chunk.js",
+    "main.js.map": "/mia-test/static/js/main.51959485.chunk.js.map",
     "runtime-main.js": "/mia-test/static/js/runtime-main.0835dd82.js",
     "runtime-main.js.map": "/mia-test/static/js/runtime-main.0835dd82.js.map",
     "static/js/2.819836d6.chunk.js": "/mia-test/static/js/2.819836d6.chunk.js",
     "static/js/2.819836d6.chunk.js.map": "/mia-test/static/js/2.819836d6.chunk.js.map",
     "index.html": "/mia-test/index.html",
-    "precache-manifest.ca2150700072d315f44ac5250db3645d.js": "/mia-test/precache-manifest.ca2150700072d315f44ac5250db3645d.js",
+    "precache-manifest.4ae6913772e1f41cbd14c60443854b3c.js": "/mia-test/precache-manifest.4ae6913772e1f41cbd14c60443854b3c.js",
     "service-worker.js": "/mia-test/service-worker.js",
-    "static/css/main.8ab6f918.chunk.css.map": "/mia-test/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.819836d6.chunk.js.LICENSE": "/mia-test/static/js/2.819836d6.chunk.js.LICENSE",
-    "static/media/logo.svg": "/mia-test/static/media/logo.ee7cd8ed.svg"
+    "static/js/2.819836d6.chunk.js.LICENSE": "/mia-test/static/js/2.819836d6.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.0835dd82.js",
     "static/js/2.819836d6.chunk.js",
-    "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.6a13620e.chunk.js"
+    "static/js/main.51959485.chunk.js"
   ]
 }

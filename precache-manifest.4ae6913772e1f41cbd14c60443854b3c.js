@@ -1,11 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b31e3eee43a45cd7f1231e63a2f24c7",
+    "revision": "024d269f51ca83c39b7724f5ae0158bc",
     "url": "/mia-test/index.html"
-  },
-  {
-    "revision": "8c6a6ad10a6dceed1fc7",
-    "url": "/mia-test/static/css/main.8ab6f918.chunk.css"
   },
   {
     "revision": "fbee59f25f7ebe34a1a9",
@@ -16,15 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mia-test/static/js/2.819836d6.chunk.js.LICENSE"
   },
   {
-    "revision": "8c6a6ad10a6dceed1fc7",
-    "url": "/mia-test/static/js/main.6a13620e.chunk.js"
+    "revision": "49deb8de16ab553832d1",
+    "url": "/mia-test/static/js/main.51959485.chunk.js"
   },
   {
     "revision": "a876cbda63840867f961",
     "url": "/mia-test/static/js/runtime-main.0835dd82.js"
-  },
-  {
-    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
-    "url": "/mia-test/static/media/logo.ee7cd8ed.svg"
   }
 ]);
